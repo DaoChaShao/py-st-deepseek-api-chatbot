@@ -8,7 +8,8 @@
    `streamlit run main.py`.
 4. Enter the **API Key** and **Prompt** in the respective fields.
 5. Or, you can use it
-   online [![Static Badge](https://img.shields.io/badge/Open%20in%20Streamlit-Daochashao-red?style=for-the-badge&logo=streamlit&labelColor=white)](https://call-deepseek.streamlit.app/).
+   online
+   [![Static Badge](https://img.shields.io/badge/Open%20in%20Streamlit-Daochashao-red?style=for-the-badge&logo=streamlit&labelColor=white)](https://call-deepseek.streamlit.app/).
 
 **License**
 ***
