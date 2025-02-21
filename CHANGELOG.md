@@ -14,7 +14,7 @@
 
 ### Docs
 
+- update CHANGELOG.md. ([5299701](https://github.com///commit/5299701cc3ed9bf331de427a7b910767e72e3268))
 - add the online application link. ([381a459](https://github.com///commit/381a45989296d9441e8669204210c1fe679f2175))
-- update CHANGELOG.md. ([f6e924f](https://github.com///commit/f6e924f3a830e0cee47190f08d2af5f9eb611cf6))
 - update README.md. ([3a2a574](https://github.com///commit/3a2a574cc624fbaaf265b4964466c3e73c00e9a4))
 
