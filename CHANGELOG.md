@@ -13,5 +13,6 @@
 
 ### Docs
 
+- update CHANGELOG.md. ([ae2473a](https://github.com///commit/ae2473ac8ac09882f322e9c2e2a4c5ccd2ea1548))
 - update README.md. ([3a2a574](https://github.com///commit/3a2a574cc624fbaaf265b4964466c3e73c00e9a4))
 
