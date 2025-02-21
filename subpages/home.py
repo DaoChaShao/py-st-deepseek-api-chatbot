@@ -8,7 +8,7 @@
 
 from streamlit import title, divider, expander, caption, empty, sidebar
 
-title("Call the DeepSeek Model via API Key")
+title("Access the DeepSeek Model")
 divider()
 
 empty_message: empty = empty()
