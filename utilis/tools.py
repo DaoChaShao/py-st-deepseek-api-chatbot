@@ -45,14 +45,15 @@ def parameters() -> tuple[str, str, str, float, float]:
             )
             match category:
                 case "General":
-                    content = "The system will generate a general response."
-                    param_temp = 1.3
+                    content = "You are a useful assistant."
+                    param_temp = 1.5
                 case "Math/Code":
-                    content = "The system will generate a response related to math or code."
+                    content = "You are a professional mathematician and programmer."
                     param_temp = 0.0
                 case "Translation":
-                    content = "The system will generate a translation response."
-                    param_temp = 1.5
+                    content = ("You are a translator between English and Chinese."
+                               "Please translate the following text from Chinese to English.")
+                    param_temp = 1.3
 
             temperature: int = slider("Temperature", 0.0, 2.0, param_temp, help="The randomness of the output.")
             caption(f"The temperature you selected is: **{temperature}**")
