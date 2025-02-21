@@ -9,10 +9,12 @@
 
 ### Chore
 
+- modify the title of the application. ([9a29e1c](https://github.com///commit/9a29e1c52408a383bd2faf0c14f84fa023d56819))
 - update the instructions of using the application. ([1c6686b](https://github.com///commit/1c6686b0c89b95f59f4c6e5ca61e8183df3a6d6b))
 
 ### Docs
 
-- update CHANGELOG.md. ([ae2473a](https://github.com///commit/ae2473ac8ac09882f322e9c2e2a4c5ccd2ea1548))
+- add the online application link. ([381a459](https://github.com///commit/381a45989296d9441e8669204210c1fe679f2175))
+- update CHANGELOG.md. ([f6e924f](https://github.com///commit/f6e924f3a830e0cee47190f08d2af5f9eb611cf6))
 - update README.md. ([3a2a574](https://github.com///commit/3a2a574cc624fbaaf265b4964466c3e73c00e9a4))
 
