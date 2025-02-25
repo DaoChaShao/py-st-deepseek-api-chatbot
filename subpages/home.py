@@ -14,10 +14,10 @@ divider()
 empty_message: empty = empty()
 
 with sidebar:
-    "[![Static Badge](https://img.shields.io/badge/GitHub-py--st--deepseek--api%20in%20DaoChaShao-black?style=for-the-badge&logo=github)](https://github.com/DaoChaShao/py-st-deepseek-api)"
+    "[![Static Badge](https://img.shields.io/badge/GitHub-py--st--deepseek--api%20in%20DaoChaShao-black?style=for-the-badge&logo=github)](https://github.com/DaoChaShao/py-st-deepseek-api-chatbot)"
 
 with expander("**Instructions**: Call the deepseek model via API key.", expanded=True):
-    caption("1. Clone the code from the [GitHub](https://github.com/DaoChaShao/py-st-deepseek-api) to the local.")
+    caption("1. Clone the code from the [GitHub](https://github.com/DaoChaShao/py-st-deepseek-api-chatbot) to the local.")
     caption("2. Run the command `pip install -r requirements.txt` to install the dependencies.")
     caption("3. Use the command `streamlit run main.py` to use this application.")
     caption("4. Apply for the API Key from [DeepSeek](https://deepseek.ai/).")
